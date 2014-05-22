@@ -1,4 +1,4 @@
-node-chat-id
-============
+chat-id
+=======
 
-JavaScript identifier implementation compatible with the Simple Chat protocol version 4
+JavaScript identifier implementation compatible with the [Simple Chat](https://github.com/impomezia/schat) protocol version 4.
