@@ -1,6 +1,6 @@
 {
   "name": "chat-id",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "homepage": "https://schat.me",
   "author": "Alexander Sedov <imp@schat.me> (https://schat.me)",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "dependencies": {
     "base32": "git+https://github.com/impomezia/base32-js.git",
     "node-uuid": "~1.4.1",
-    "crc": "~0.3.0"
+    "crc": "^3.0.0"
   },
   "devDependencies": {
     "mocha": "~1.18.2",

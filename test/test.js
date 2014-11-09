@@ -1,6 +1,6 @@
 var cid    = require('../index');
 var expect = require('chai').expect;
-var crc8   = require('crc').buffer.crc8;
+var crc8   = require('crc').crc8;
 
 describe('Create new', function() {
   it('Should create new id from correct string', function() {
